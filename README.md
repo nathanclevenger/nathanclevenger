@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on building [Driv.ly](https://driv.ly) to disrupt the automotive landscape through simple APIs to buy and sell cars.
-- 🌱 I’m currently learning everything possible about Cloudflare Workers, KV, Durable Objects, PubSub, and that entire ecosystem.
+- 🌱 I’m working to learn everything I can about Cloudflare Workers, KV, Durable Objects, PubSub, and that entire ecosystem.
 
 <!--
 **nathanclevenger/nathanclevenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
